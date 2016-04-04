@@ -1,2 +1,2 @@
 # php
-php programming code
+php/hypertext preprocessor programming code
