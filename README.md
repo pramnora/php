@@ -59,16 +59,16 @@ also, is based on what that particular programming language either can/or else, 
 
 > &lt;?php  
 > echo "Hello, world!"    
-> Hello, world!  
 > ?&gt;    
+> Hello, world!  
 
 #### Print string variable...
 
 > &lt;?php  
 > $text="Hello, world!";  
 > echo $text;  
-> Hello, world!    
 > ?&gt;    
+> Hello, world!     
 
 #### Print using a function...
 
@@ -77,7 +77,8 @@ also, is based on what that particular programming language either can/or else, 
 >   echo "Hello, world!";  
 > }  
 > printText();  
-> ?&gt;    
+> ?&gt;     
+> Hello, world!      
 
 **NOTE(1)** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
 
@@ -89,10 +90,10 @@ so, that the PHP program can know this is where the line of exectuable code ends
 > &lt;?php  
 > $x=1;  
 > echo $x;     
-> 1    
 > var_dump($x);   
-> int(1)  
-> ?&gt;    
+> ?&gt;      
+> 1    
+> int(1)   
 
 ### Add 2 numbers
 
@@ -101,8 +102,8 @@ so, that the PHP program can know this is where the line of exectuable code ends
 > $num2=2;   
 > $sumTotal=$num1+$num2;    
 > echo $sumTotal;    
-> 3  
 > ?&gt;    
+> 3  
 
 ## Links
 
