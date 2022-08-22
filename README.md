@@ -22,12 +22,12 @@ whatever uses the programmer chooses to put it to...is entirely up to themselves
 and, what happens to be the limits of their own 'imagination';    
 also, is based on what that particular programming language either can/or else, can't do.  
 
-## Example PHP codes...
+## Simple example PHP program codes...
 
 ### PHP Code comments
 
 > // This is a PHP single line comment  
-> (#) This is a PHP  single line comment  
+> (#) This is a PHP  single line comment  -(NOTE: Take off the pair of parenthesis brackets around the hash symbol/Markdown displays it as a Header.)-  
 > /* This is  
 >    a PHP  
 >    multi-line comment */  
