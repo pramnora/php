@@ -73,6 +73,12 @@ also, is based on what that particular programming language either can/or else, 
 **NOTE(2)**: When you are writing *multiple* lines of PHP code...it's important to place a semi-colon symbol: (;)...at the end of each line;  
 so, that the PHP program can know this is where the line of exectuable code ends; otherwise, your program will have **error** messages!
 
+**NOTE(3)**: In actual usage...every PHP block of script code needs to be delimited with... 
+
+> &lt;?php  
+> -(script code goes inside here)-   
+> ?&gt;  
+
 ### Initialise variable/print out it's value/print out variable value, plus, it''s type...
 
 > $x=1;  
