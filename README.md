@@ -28,7 +28,7 @@ also, is based on what that particular programming language either can/or else, 
 
 ## Installing PHP on Linux Ubuntu...
 
-> apt-get install php  
+> sudo apt-get install php  
 > which php  
 > /user/bin/php  
 
