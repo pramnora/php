@@ -59,6 +59,13 @@ also, is based on what that particular programming language either can/or else, 
 > echo $text;  
 > Hello, world!    
 
+#### Print using a function...
+
+> function printText(){  
+>   echo "Hello, world!";  
+> }  
+> printText()  
+
 **NOTE(1)** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
 
 **NOTE(2)**: When you are writing *multiple* lines of PHP code...it's important to place a semi-colon symbol: (;)...at the end of each line;  
