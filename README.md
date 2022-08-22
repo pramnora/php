@@ -22,12 +22,7 @@ whatever uses the programmer chooses to put it to...is entirely up to themselves
 and, what happens to be the limits of their own 'imagination';    
 also, is based on what that particular programming language either can/or else, can't do.  
 
-## Links
-
-PHP Main site...  
-- https://www.php.net
-
-## Example codes...
+## Example PHP codes...
 
 ### PHP Code comments
 
@@ -44,6 +39,11 @@ PHP Main site...
 > int(1)  
 
 **NOTE** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
+
+## Links
+
+PHP Main site...  
+- https://www.php.net
 
 ## PHP Tutorials
 
