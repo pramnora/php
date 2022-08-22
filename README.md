@@ -24,7 +24,7 @@ also, is based on what that particular programming language either can/or else, 
 
 **NOTE**: There are many different versions of PHP...I believe, the latest version is 8.  
 
--(Because, I'm not an *expert* in this language; but, only a mere *beginner*; therefore, I can hardly claim to be able to explain what the differences between these versions are...?)-  
+-(Because, I'm **not** an *expert* in this language; but, only a mere *beginner*; therefore, I can hardly claim to be able to explain what the differences between these versions are...?!)-  
 
 ## Installing PHP on Linux Ubuntu...
 
