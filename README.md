@@ -36,6 +36,15 @@ also, is based on what that particular programming language either can/or else, 
 >    a PHP  
 >    multi-line comment */  
 
+### Hello, world!
+
+> echo "Hello, world!"  
+> Hello, world!  
+
+> $text="Hello, world!"  
+> echo $text  
+> Hello, world!  
+
 ### Initialise variable/print out it's value/print out variable value, plus, it''s type...
 
 > $x=1  
