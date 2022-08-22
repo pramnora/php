@@ -108,7 +108,7 @@ so, that the PHP program can know this is where the line of exectuable code ends
 ### Loop
 
 > &lt;?php    
-> for ($num=1;$num<3;$num++){      
+> for ($num=1;$num<4;$num++){      
 >  echo $num."&lt;br&gt;";    
 > }      
 > 1  
