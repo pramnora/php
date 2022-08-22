@@ -115,7 +115,7 @@ so, that the PHP program can know this is where the line of exectuable code ends
 > 2  
 > 3    
 
-**NOTE**: PHP code can be intermixed with HTML codes...such as the vertical line feed: '<br>'...; by using the period dot (.) which functions as a concatenation operator.   
+**NOTE**: PHP code can be intermixed with HTML codes...such as the vertical line feed: '&lt;br&gt;'...; by using the period dot (.) which functions as a concatenation operator.   
 
 ## Links
 
