@@ -7,7 +7,7 @@ PHP code files end in filename extension: [.php]/for example: [index.php].
 
 PHP, is a web server *back end* programming language.../  
 this means the PHP code is, essentially, 'hidden';     
-when the server gets a browser request...; and, then, sends PHP code out to the client web browser...;      
+when the **server** gets a browser request...; and, then, PHP sends code out to the **client** web browser...;      
 none of the PHP code is, actually, visible...whenever you choose to *view source*...;      
 but, instead, the web browser only just sees what is a mixture of: HTML/CSS/Javascript, alone.  
 
@@ -26,5 +26,12 @@ also, is based on what that particular programming language either can/or else, 
 
 PHP Main site...  
 - https://www.php.net
+
+## PHP Tutorials
+
+### Online
+
+W3Schools...  
+- https://www.w3schools.com/php/default.asp  
 
 
