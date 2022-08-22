@@ -44,6 +44,14 @@ also, is based on what that particular programming language either can/or else, 
 > var_dump($x)  
 > int(1)  
 
+### Add 2 numbers
+
+> $x=1  
+> $y=2  
+> $z=$x+$y  
+> echo $z  
+> 3  
+
 **NOTE** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
 
 ## Links
