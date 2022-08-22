@@ -37,7 +37,7 @@ also, is based on what that particular programming language either can/or else, 
 ### PHP code delimiters: &lt;?php/?&gt;   
 
 > &lt;?php  
-> -(script code goes inside here)-   
+> -(PHP script code goes inside here...)-   
 > ?&gt;  
 
 
@@ -104,6 +104,18 @@ so, that the PHP program can know this is where the line of exectuable code ends
 > echo $sumTotal;    
 > ?&gt;    
 > 3  
+
+### Loop
+
+> &lt;?php    
+> for ($num=1;num<3;num++){      
+>  echo $num."<br>";    
+> }      
+> 1  
+> 2  
+> 3    
+
+**NOTE**: PHP code can be intermixed with HTML codes...such as the vertical line feed: '<br>'...; by using the period dot (.) which functions as a concatenation operator.   
 
 ## Links
 
