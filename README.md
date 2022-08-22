@@ -46,10 +46,10 @@ also, is based on what that particular programming language either can/or else, 
 
 ### Add 2 numbers
 
-> $x=1  
-> $y=2  
-> $z=$x+$y  
-> echo $z  
+> $num1=1  
+> $num2=2  
+> $sumTotal=$num1+$num2  
+> echo $sumTotal  
 > 3  
 
 **NOTE** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
