@@ -41,24 +41,27 @@ also, is based on what that particular programming language either can/or else, 
 > echo "Hello, world!"  
 > Hello, world!  
 
-> $text="Hello, world!"  
-> echo $text  
+> $text="Hello, world!";  
+> echo $text; 
 > Hello, world!  
+
+**NOTE**: When you are writing multiple lines of PHP code...it's important to place a semi-colon symbol: (;)...at the end of each line;  
+so, that the PHP program can know this is where the line of exectuable code ends; otherwise, your program will have error messages!
 
 ### Initialise variable/print out it's value/print out variable value, plus, it''s type...
 
-> $x=1  
-> echo $x     
+> $x=1;  
+> echo $x;     
 > 1    
-> var_dump($x)  
+> var_dump($x);  
 > int(1)  
 
 ### Add 2 numbers
 
-> $num1=1  
-> $num2=2  
-> $sumTotal=$num1+$num2  
-> echo $sumTotal  
+> $num1=1;  
+> $num2=2; 
+> $sumTotal=$num1+$num2;  
+> echo $sumTotal;  
 > 3  
 
 **NOTE** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
