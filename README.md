@@ -34,6 +34,13 @@ also, is based on what that particular programming language either can/or else, 
 
 ## Simple example PHP program codes...
 
+### PHP code delimiters: &lt;?php/?&gt;   
+
+> &lt;?php  
+> -(script code goes inside here)-   
+> ?&gt;  
+
+
 ### PHP Code comments
 
 > // This is a PHP single line comment 
@@ -50,14 +57,18 @@ also, is based on what that particular programming language either can/or else, 
 
 #### Print string literal...
 
+> &lt;?php  
 > echo "Hello, world!"    
 > Hello, world!  
+> ?&gt;    
 
 #### Print string variable...
 
+> &lt;?php  
 > $text="Hello, world!";  
 > echo $text;  
 > Hello, world!    
+> ?&gt;    
 
 #### Print using a function...
 
@@ -73,27 +84,25 @@ also, is based on what that particular programming language either can/or else, 
 **NOTE(2)**: When you are writing *multiple* lines of PHP code...it's important to place a semi-colon symbol: (;)...at the end of each line;  
 so, that the PHP program can know this is where the line of exectuable code ends; otherwise, your program will have **error** messages!
 
-**NOTE(3)**: In actual usage...every PHP block of script code needs to be delimited with... 
-
-> &lt;?php  
-> -(script code goes inside here)-   
-> ?&gt;  
-
 ### Initialise variable/print out it's value/print out variable value, plus, it''s type...
 
+> &lt;?php  
 > $x=1;  
 > echo $x;     
 > 1    
 > var_dump($x);   
 > int(1)  
+> ?&gt;    
 
 ### Add 2 numbers
 
+> &lt;?php  
 > $num1=1;    
 > $num2=2;   
 > $sumTotal=$num1+$num2;    
 > echo $sumTotal;    
 > 3  
+> ?&gt;    
 
 ## Links
 
