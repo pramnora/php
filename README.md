@@ -49,7 +49,9 @@ also, is based on what that particular programming language either can/or else, 
 > echo $text;  
 > Hello, world!    
 
-**NOTE**: When you are writing multiple lines of PHP code...it's important to place a semi-colon symbol: (;)...at the end of each line;  
+**NOTE(1)** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
+
+**NOTE(2)**: When you are writing multiple lines of PHP code...it's important to place a semi-colon symbol: (;)...at the end of each line;  
 so, that the PHP program can know this is where the line of exectuable code ends; otherwise, your program will have error messages!
 
 ### Initialise variable/print out it's value/print out variable value, plus, it''s type...
@@ -67,8 +69,6 @@ so, that the PHP program can know this is where the line of exectuable code ends
 > $sumTotal=$num1+$num2;    
 > echo $sumTotal;    
 > 3  
-
-**NOTE** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
 
 ## Links
 
