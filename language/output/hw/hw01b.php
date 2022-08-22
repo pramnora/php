@@ -9,9 +9,7 @@
   <body>
 
 <?php
-for ($x=0;$x<10;$++){
-  echo $x."Hello, world!";
-}
+ echo "Hello, world!";
 ?>
     
   </body>
