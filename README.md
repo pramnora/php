@@ -38,8 +38,12 @@ also, is based on what that particular programming language either can/or else, 
 
 ### Hello, world!
 
+#### Print string literal...
+
 > echo "Hello, world!"    
 > Hello, world!  
+
+#### Print string variable...
 
 > $text="Hello, world!";  
 > echo $text;  
