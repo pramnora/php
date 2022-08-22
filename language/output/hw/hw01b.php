@@ -10,7 +10,7 @@
 
 <?php
 for ($x=0;$x<10;$++){
-  echo "Hello, world!";
+  echo $x."Hello, world!";
 }
 ?>
     
