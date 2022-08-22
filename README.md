@@ -27,6 +27,24 @@ also, is based on what that particular programming language either can/or else, 
 PHP Main site...  
 - https://www.php.net
 
+## Example codes...
+
+### PHP Code comments
+
+> // This is a PHP single line comment  
+> # This is a PHP  single line comment  
+> /* This is  
+>    a PHP  
+>    multi-line comment */  
+
+### Initialse variable/print out it's value/print out it''s type...
+
+> $x=1  
+> var_dump($x)  
+> int(1)  
+
+**NOTE** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
+
 ## PHP Tutorials
 
 ### Online
