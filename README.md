@@ -34,8 +34,8 @@ also, is based on what that particular programming language either can/or else, 
 
 ### Initialise variable/print out it's value/print out variable value, plus, it''s type...
 
-> $x=1 
-> echo $x   
+> $x=1  
+> echo $x     
 > 1    
 > var_dump($x)  
 > int(1)  
