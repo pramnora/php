@@ -109,7 +109,7 @@ so, that the PHP program can know this is where the line of exectuable code ends
 
 > &lt;?php    
 > for ($num=1;$num<3;$num++){      
->  echo $num."<br>";    
+>  echo $num."&lt;br&gt;";    
 > }      
 > 1  
 > 2  
