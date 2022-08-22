@@ -61,10 +61,11 @@ also, is based on what that particular programming language either can/or else, 
 
 #### Print using a function...
 
+> &lt;?php  
 > function printText(){  
 >   echo "Hello, world!";  
 > }  
-> printText();
+> printText();  
 > ?&gt;    
 
 **NOTE(1)** Variable names in PHP are preceeded by a dollar sign symbol: ($).  
