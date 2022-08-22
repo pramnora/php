@@ -27,12 +27,12 @@ also, is based on what that particular programming language either can/or else, 
 ### PHP Code comments
 
 > // This is a PHP single line comment  
-> # This is a PHP  single line comment  
+> \# This is a PHP  single line comment  
 > /* This is  
 >    a PHP  
 >    multi-line comment */  
 
-### Initialse variable/print out it's value/print out it''s type...
+### Initialise variable/print out it's value/print out variable value, plus, it''s type...
 
 > $x=1  
 > var_dump($x)  
