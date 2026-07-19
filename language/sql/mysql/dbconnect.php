@@ -28,8 +28,8 @@ $conn->close(); // close connection
 ?>
 
 /*
- NOTE: I'm using Linux Minu OS.
-       Instead, of saving the password as plaintext inside of this file.  
+ NOTE: I'm using Linux Mint 22.3 OS.
+       Instead, of saving the password as 'plaintext' inside of this file.  
        The password is saved separately inside of:   
        /etc/dbcreds.php 
        ...outside of root/and, that file is further locked down using file permissions: 640
